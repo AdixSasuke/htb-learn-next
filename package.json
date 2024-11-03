@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "htb-learn-next": "file:",
+    "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
-    "next": "15.0.2"
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "postcss": "^8",
